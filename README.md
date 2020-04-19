@@ -1,4 +1,4 @@
-# todo_vue_app
+# vuejs-todo-app
 
 ## Project setup
 ```
