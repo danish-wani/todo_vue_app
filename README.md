@@ -1,4 +1,4 @@
-# vue_js
+# todo_vue_app
 
 ## Project setup
 ```
